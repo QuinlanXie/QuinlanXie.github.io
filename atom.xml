@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-11T17:39:53.166Z</updated>
+  <updated>2019-04-12T06:05:52.803Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Qt</title>
+    <link href="http://yoursite.com/2019/04/12/Qt/"/>
+    <id>http://yoursite.com/2019/04/12/Qt/</id>
+    <published>2019-04-12T05:45:57.000Z</published>
+    <updated>2019-04-12T06:05:52.803Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Qt学习中的一些重点&lt;br&gt;
+    
+    </summary>
+    
+      <category term="学习笔记 - Qt" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-Qt/"/>
+    
+    
+      <category term="Qt" scheme="http://yoursite.com/tags/Qt/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://yoursite.com/2019/04/12/hello-world/"/>
     <id>http://yoursite.com/2019/04/12/hello-world/</id>
     <published>2019-04-11T16:27:57.000Z</published>
-    <updated>2019-04-11T17:39:53.166Z</updated>
+    <updated>2019-04-12T05:52:12.057Z</updated>
     
     <summary type="html">
     
@@ -29,7 +49,7 @@
     
     </summary>
     
-      <category term="学习笔记" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="学习笔记 - 初学" scheme="http://yoursite.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%88%9D%E5%AD%A6/"/>
     
     
       <category term="学习" scheme="http://yoursite.com/tags/%E5%AD%A6%E4%B9%A0/"/>
